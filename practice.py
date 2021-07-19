@@ -10,3 +10,6 @@ list  = ["Its ", "a", "great", "pleasure", "that", "you", "are", 'here']
 
 for item in list :
     print(item)
+    
+print("List is over")
+print("lets try git")
