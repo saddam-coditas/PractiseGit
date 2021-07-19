@@ -5,6 +5,7 @@ print(a+b)
 
 input = input("Enter your name")
 print(a + input)
+print("welcome to the" + b + "of python")
 print("Welcome " + input)
 print("to the " + b + "of python")
 list  = ["Its ", "a", "great", "pleasure", "that", "you", "are", 'here']
